@@ -18,7 +18,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante curso [Santander Bootcamp 2024](https://www.santanderopenacademy.com/) [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante curso [Santander Bootcamp 2024](https://www.santanderopenacademy.com/) e plataforma [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
