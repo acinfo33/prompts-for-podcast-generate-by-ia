@@ -20,7 +20,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante curso [Santander Bootcamp 2024](https://www.santanderopenacademy.com/) e plataforma [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto ministrado pelo Professor [Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia) com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
