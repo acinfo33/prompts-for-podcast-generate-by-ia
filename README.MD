@@ -22,7 +22,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -85,4 +85,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Antonio Carlos Velho](https://github.com/acinfo33)
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⌨</font></font> com 💙 por [Antonio Carlos Velho](https://github.com/acinfo33)
