@@ -78,7 +78,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         href="https://www.instagram.com/ac_info33/">
         Instagram
     </a>
-    &nbsp;|&nbsp;</p>
+   
 </p>
 <br/><br/>
 <p>
